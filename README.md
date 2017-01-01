@@ -1,5 +1,5 @@
 # 386-BSD
-<hr>
+
 <p> This is a BSD kernel from https://github.com/386Bsd/</p>
 <p>and it share by it owner.</p>
 
